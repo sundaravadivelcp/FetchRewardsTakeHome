@@ -33,7 +33,7 @@ Ensure you have the following software installed:
 1. Clone the repository to your local machine using the following command:
 
     ```sh
-    git clone https://github.com/yourusername/your-repository-name.git
+    git clone https://github.com/sundaravadivelcp/FetchRewardsTakeHome.git
     ```
 
 2. Open the project in Android Studio.
